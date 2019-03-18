@@ -1,0 +1,29 @@
+[*] initializing sockets ... done 
+[*] sockets binded successfully
+[*] proxyserver started successfully [8002] 
+[*]proxy server shutting down... 
+[*] initializing sockets ... done 
+[*] sockets binded successfully
+[*] proxyserver started successfully [8002] 
+[*]proxy server shutting down... 
+[*] initializing sockets ... done 
+[*] sockets binded successfully
+[*] proxyserver started successfully [8002] 
+[*]proxy server shutting down... 
+[*] initializing sockets ... done 
+[*] sockets binded successfully
+[*] proxyserver started successfully [8002] 
+[*] client browser request came to proxy 
+[*] client browser request came to proxy 
+[*] client browser request came to proxy 
+[*] client browser request came to proxy 
+[*] client browser request came to proxy 
+[*]proxy server shutting down... 
+[*] initializing sockets ... done 
+[*] sockets binded successfully
+[*] proxyserver started successfully [8002] 
+[*]proxy server shutting down... 
+[*] initializing sockets ... done 
+[*] sockets binded successfully
+[*] proxyserver started successfully [8002] 
+[*]proxy server shutting down... 
